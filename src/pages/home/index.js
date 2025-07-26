@@ -1,5 +1,3 @@
-import React, { useEffect, useState, useRef } from "react";
-
 import "./index.css";
 
 import Header from "../../components/header";
@@ -13,22 +11,21 @@ import ClientSection from "../../components/client";
 import Footer from "../../components/footer";
 
 function Home() {
-	return (
-		<div>
-			<div className="header_section">
-				<Header />
-				<Banner />
-			</div>
-			<ServicesSection />
-			<BlogSection />
-			<FeaturesSection />
-			<TeamSection />
-			<ContactSection />
-			<ClientSection />
-			<Footer />
-		</div>
-	);
+  return (
+    <div>
+      <div className="header_section">
+        <Header />
+        <Banner />
+      </div>
+      <ServicesSection />
+      <BlogSection />
+      <FeaturesSection />
+      <TeamSection />
+      <ContactSection />
+      <ClientSection />
+      <Footer />
+    </div>
+  );
 }
-
 
 export default Home;

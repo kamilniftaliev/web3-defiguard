@@ -8,7 +8,7 @@ function Header() {
     <div className="container">
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <a className="navbar-brand" href="/">
-          <img src={AppLogo} />
+          <img src={AppLogo} alt="Logo" />
         </a>
         <button
           className="navbar-toggler"
@@ -64,9 +64,7 @@ function Header() {
           </ul>
           <form className="form-inline my-2 my-lg-0">
             <div className="search_bt">
-              <a href="#">
-                <i className="fa fa-search" aria-hidden="true"></i>
-              </a>
+              <i className="fa fa-search" aria-hidden="true"></i>
             </div>
           </form>
         </div>

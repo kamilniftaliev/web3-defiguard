@@ -4,7 +4,10 @@ This is a decentralized application (dApp) that allows users to seamlessly conne
 
 ## Demo
 
-<video src="./public/demo.mp4" />
+<video width="600" controls>
+  <source src="./public/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 🚀 Getting Started – Run Locally
 
