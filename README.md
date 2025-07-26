@@ -8,7 +8,7 @@ Check out the **[Live Demo on Netlify](https://web3-defiguard.netlify.app/)** to
 
 ## 🎥 YouTube Video Demo
 
-<iframe src="https://www.youtube.com/embed/5P04sXhKtPE" width="700" height="700"></iframe>
+[![Watch the video](https://img.youtube.com/vi/5P04sXhKtPE/0.jpg)](https://www.youtube.com/watch?v=5P04sXhKtPE)
 
 ## 🚀 Getting Started – Run Locally
 
