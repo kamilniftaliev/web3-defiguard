@@ -2,10 +2,14 @@
 
 This is a decentralized application (dApp) that allows users to seamlessly connect their Ethereum wallets (like MetaMask) and send ETH to any address across both mainnet and testnet networks (e.g., Goerli, Sepolia). With a simple and intuitive interface, users can:
 
-## Demo
+## 🚀 Live Demo
 
-<video width="600" controls>
-  <source src="./public/demo.mp4" type="video/mp4">
+Check out the **[Live Demo on Netlify](https://web3-defiguard.netlify.app/)** to see the app in action.
+
+## 🎥 Video Demo
+
+<video controls>
+  <source src="https://github.com/kamilniftaliev/web3-defiguard/raw/refs/heads/main/public/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
