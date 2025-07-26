@@ -1,17 +1,14 @@
 # 🌐 Web3 ETH Sender – Connect & Transfer ETH Across Networks
 
-This is a decentralized application (dApp) that allows users to seamlessly connect their Ethereum wallets (like MetaMask) and send ETH to any address across both mainnet and testnet networks (e.g., Goerli, Sepolia). With a simple and intuitive interface, users can:
+This is a decentralized application (dApp) that allows users to seamlessly connect their Ethereum wallets (like MetaMask) and send ETH to any address across both mainnet and testnet networks (e.g., Goerli, Sepolia).
 
 ## 🚀 Live Demo
 
 Check out the **[Live Demo on Netlify](https://web3-defiguard.netlify.app/)** to see the app in action.
 
-## 🎥 Video Demo
+## 🎥 YouTube Video Demo
 
-<video controls>
-  <source src="https://github.com/kamilniftaliev/web3-defiguard/raw/refs/heads/main/public/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe src="https://www.youtube.com/embed/5P04sXhKtPE" width="700" height="700"></iframe>
 
 ## 🚀 Getting Started – Run Locally
 
